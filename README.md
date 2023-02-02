@@ -7,4 +7,4 @@
 
 ## Example Usage:
   Hold the color object of your choice in front of the webcam and vary the slider values to get a clear mask for the color of our choice.
-[image](https://user-images.githubusercontent.com/35259816/216229234-4ec74813-62e4-4178-9c7a-df729cee55f3.png)
+![image](https://user-images.githubusercontent.com/35259816/216229234-4ec74813-62e4-4178-9c7a-df729cee55f3.png)
